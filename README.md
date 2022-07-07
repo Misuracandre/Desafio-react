@@ -1,2 +1,2 @@
 # Desafio React
-## Criando front-end componetizado
+## Criando front-end componentizado
